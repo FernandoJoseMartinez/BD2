@@ -1,0 +1,184 @@
+CURSO_ACADEMICO;ESTUDIO;LOCALIDAD;CENTRO;TIPO_CENTRO;TIPO_ESTUDIO;PLAZAS_OFERTADAS;PLAZAS_MATRICULADAS;PLAZAS_SOLICITADAS;INDICE_OCUPACION;FECHA_ACTUALIZACION
+2021;Grado: Ciencias Ambientales;Huesca;Escuela Politécnica Superior;Facultad;Grado;54;37;337;68.52;30/10/2022
+2021;Grado: Enfermería;Zaragoza;Facultad de Ciencias de la Salud;Facultad;Grado;176;176;3959;100.00;30/10/2022
+2021;Grado: Enfermería;Huesca;Escuela Universitaria de Enfermería San Jorge de Huesca;Centro adscrito;Grado;59;59;3313;100.00;30/10/2022
+2021;Grado: Enfermería;Teruel;Escuela Universitaria de Enfermería de Teruel;Centro adscrito;Grado;36;36;3051;100.00;30/10/2022
+2021;Grado: Bellas Artes;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Grado;55;50;311;90.91;30/10/2022
+2021;Grado: Filosofía;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;60;59;397;98.33;30/10/2022
+2021;Grado: Periodismo;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;60;59;667;98.33;30/10/2022
+2021;Grado: Información y Documentación;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;36;14;108;38.89;30/10/2022
+2021;Grado: Fisioterapia;Zaragoza;Facultad de Ciencias de la Salud;Facultad;Grado;60;60;1993;100.00;30/10/2022
+2021;Grado: Terapia Ocupacional;Zaragoza;Facultad de Ciencias de la Salud;Facultad;Grado;80;80;757;100.00;30/10/2022
+2021;Grado: Trabajo Social;Zaragoza;Facultad de Ciencias Sociales y del Trabajo;Facultad;Grado;180;158;1260;87.78;30/10/2022
+2021;Grado: Ingeniero en Diseño Industrial y Desarrollo de Producto;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;75;75;591;100.00;30/10/2022
+2021;Grado: Ciencia y Tecnología de los Alimentos;Zaragoza;Facultad de Veterinaria;Facultad;Grado;60;58;643;96.67;30/10/2022
+2021;Grado: Ciencias de la Actividad Física y del Deporte;Huesca;Facultad de Ciencias de la Salud y del Deporte;Facultad;Grado;62;62;1072;100.00;30/10/2022
+2021;Grado: Geología;Zaragoza;Facultad de Ciencias;Facultad;Grado;50;32;179;64.00;30/10/2022
+2021;Grado: Óptica y Optometría;Zaragoza;Facultad de Ciencias;Facultad;Grado;60;57;878;95.00;30/10/2022
+2021;Grado: Magisterio en Educación Primaria;Zaragoza;Facultad de Educación;Facultad;Grado;240;238;1773;99.17;30/10/2022
+2021;Grado: Magisterio en Educación Primaria;Huesca;Facultad de Ciencias Humanas y de la Educación;Facultad;Grado;120;120;895;100.00;30/10/2022
+2021;Grado: Magisterio en Educación Primaria;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Grado;120;115;988;95.83;30/10/2022
+2021;Grado: Magisterio en Educación Infantil;Zaragoza;Facultad de Educación;Facultad;Grado;120;120;1329;100.00;30/10/2022
+2021;Grado: Magisterio en Educación Infantil;Huesca;Facultad de Ciencias Humanas y de la Educación;Facultad;Grado;120;118;738;98.33;30/10/2022
+2021;Grado: Magisterio en Educación Infantil;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Grado;120;114;848;95.00;30/10/2022
+2021;Grado: Medicina;Zaragoza;Facultad de Medicina;Facultad;Grado;180;185;5998;102.78;30/10/2022
+2021;Grado: Medicina;Huesca;Facultad de Ciencias de la Salud y del Deporte;Facultad;Grado;45;45;5297;100.00;30/10/2022
+2021;Grado: Estudios Clásicos;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;30;20;161;66.67;30/10/2022
+2021;Grado: Estudios Ingleses;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;100;98;498;98.00;30/10/2022
+2021;Grado: Filología Hispánica;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;70;70;311;100.00;30/10/2022
+2021;Grado: Historia;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;165;98;550;59.39;30/10/2022
+2021;Grado: Historia del Arte;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;120;64;372;53.33;30/10/2022
+2021;Grado: Física;Zaragoza;Facultad de Ciencias;Facultad;Grado;85;85;841;100.00;30/10/2022
+2021;Grado: Biotecnología;Zaragoza;Facultad de Ciencias;Facultad;Grado;66;66;1347;100.00;30/10/2022
+2021;Grado: Matemáticas;Zaragoza;Facultad de Ciencias;Facultad;Grado;70;70;991;100.00;30/10/2022
+2021;Grado: Química;Zaragoza;Facultad de Ciencias;Facultad;Grado;150;135;1221;90.00;30/10/2022
+2021;Grado: Nutrición Humana y Dietética;Huesca;Facultad de Ciencias de la Salud y del Deporte;Facultad;Grado;56;55;1041;98.21;30/10/2022
+2021;Grado: Odontología;Huesca;Facultad de Ciencias de la Salud y del Deporte;Facultad;Grado;36;37;1666;102.78;30/10/2022
+2021;Grado: Veterinaria;Zaragoza;Facultad de Veterinaria;Facultad;Grado;146;146;2078;100.00;30/10/2022
+2021;Grado: Administración y Dirección de Empresas;Zaragoza;Facultad de Economía y Empresa;Facultad;Grado;400;392;1927;98.00;30/10/2022
+2021;Grado: Administración y Dirección de Empresas;Huesca;Facultad de Empresa y Gestión Pública;Facultad;Grado;65;51;474;78.46;30/10/2022
+2021;Grado: Administración y Dirección de Empresas;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Grado;45;30;325;66.67;30/10/2022
+2021;Grado: Derecho;Zaragoza;Facultad de Derecho;Facultad;Grado;308;305;1321;99.03;30/10/2022
+2021;Grado: Economía;Zaragoza;Facultad de Economía y Empresa;Facultad;Grado;200;153;1231;76.50;30/10/2022
+2021;Grado: Finanzas y Contabilidad;Zaragoza;Facultad de Economía y Empresa;Facultad;Grado;150;120;850;80.00;30/10/2022
+2021;Grado: Geografía y Ordenación del Territorio;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;50;27;153;54.00;30/10/2022
+2021;Grado: Gestión y Administración Pública;Huesca;Facultad de Empresa y Gestión Pública;Facultad;Grado;45;35;166;77.78;30/10/2022
+2021;Grado: Marketing e Investigación de Mercados;Zaragoza;Facultad de Economía y Empresa;Facultad;Grado;150;147;1359;98.00;30/10/2022
+2021;Grado: Relaciones Laborales y Recursos Humanos;Zaragoza;Facultad de Ciencias Sociales y del Trabajo;Facultad;Grado;180;163;966;90.56;30/10/2022
+2021;Grado: Turismo;Zaragoza;Escuela Universitaria de Turismo de Zaragoza;Centro adscrito;Grado;80;28;523;35.00;30/10/2022
+2021;Grado: Ingeniería Agroalimentaria y del Medio Rural;Huesca;Escuela Politécnica Superior;Facultad;Grado;45;49;218;108.89;30/10/2022
+2021;Grado: Ingeniería Civil;Almunia de Doña Godina (La);Escuela Universitaria Politécnica de la Almunia de Doña Godina;Centro adscrito;Grado;30;11;187;36.67;30/10/2022
+2021;Grado: Arquitectura Técnica;Almunia de Doña Godina (La);Escuela Universitaria Politécnica de la Almunia de Doña Godina;Centro adscrito;Grado;45;31;208;68.89;30/10/2022
+2021;Grado: Ingeniería de Organización Industrial;Almunia de Doña Godina (La);Escuela Universitaria Politécnica de la Almunia de Doña Godina;Centro adscrito;Grado;56;37;203;66.07;30/10/2022
+2021;Grado: Ingeniería de Organización Industrial;Zaragoza;Centro Universitario de la Defensa de Zaragoza;Centro adscrito;Grado;300;293;0;97.67;30/10/2022
+2021;Grado: Ingeniería de Tecnologías Industriales;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;180;168;1565;93.33;30/10/2022
+2021;Grado: Ingeniería de Tecnologías y Servicios de Telecomunicación;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;90;83;590;92.22;30/10/2022
+2021;Grado: Ingeniería Electrica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;85;46;401;54.12;30/10/2022
+2021;Grado: Ingeniería Electrónica y Automática;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;120;88;563;73.33;30/10/2022
+2021;Grado: Ingeniería Electrónica y Automática;Teruel;Escuela Universitaria Politécnica de Teruel;Escuela Universitaria;Grado;27;12;124;44.44;30/10/2022
+2021;Grado: Ingeniería Informática;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;100;100;790;100.00;30/10/2022
+2021;Grado: Ingeniería Informática;Teruel;Escuela Universitaria Politécnica de Teruel;Escuela Universitaria;Grado;25;25;400;100.00;30/10/2022
+2021;Grado: Ingeniería Mecánica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;216;191;752;88.43;30/10/2022
+2021;Grado: Ingeniería Mecatrónica;Almunia de Doña Godina (La);Escuela Universitaria Politécnica de la Almunia de Doña Godina;Centro adscrito;Grado;56;41;265;73.21;30/10/2022
+2021;Grado: Ingeniería Química;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;90;67;584;74.44;30/10/2022
+2021;Grado: Lenguas Modernas;Zaragoza;Facultad de Filosofía y Letras;Facultad;Grado;55;46;280;83.64;30/10/2022
+2021;Grado: Programa conjunto en Derecho-Administración y Dirección de Empresas;Zaragoza;Facultad de Derecho;Facultad;Grado;80;80;510;100.00;30/10/2022
+2021;Grado: Estudios en Arquitectura;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;70;70;530;100.00;30/10/2022
+2021;Grado: Programa conjunto Física-Matemáticas (FisMat);Zaragoza;Facultad de Ciencias;Facultad;Grado;10;10;295;100.00;30/10/2022
+2021;Grado: Programa conjunto en Nutrición Humana y Dietética-Ciencias de la Actividad Física y del Deporte;Huesca;Facultad de Ciencias de la Salud y del Deporte;Facultad;Grado;10;11;499;110.00;30/10/2022
+2021;Grado: Programa conjunto en Matemáticas-Ingeniería Informática;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Grado;10;10;258;100.00;30/10/2022
+2021;Grado: Programa conjunto en Ingeniería Mecatrónica-Ingeniería de Organización  Industrial;Almunia de Doña Godina (La);Escuela Universitaria Politécnica de la Almunia de Doña Godina;Centro adscrito;Grado;10;11;70;110.00;30/10/2022
+2021;Grado: Psicología;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Grado;85;81;1891;95.29;30/10/2022
+2021;Grado: Ingeniería de Datos en Procesos Industriales;Almunia de Doña Godina (La);Escuela Universitaria Politécnica de la Almunia de Doña Godina;Centro adscrito;Grado;60;48;131;80.00;30/10/2022
+2021;Grado: Ingeniería Informática-Administración y Dirección de Empresas;Teruel;Escuela Universitaria Politécnica de Teruel;Escuela Universitaria;Grado;10;10;128;100.00;30/10/2022
+2021;Máster: Biología Molecular y Celular;Zaragoza;Facultad de Ciencias;Facultad;Máster;30;18;89;60.00;30/10/2022
+2021;Máster: Física y Tecnologías Físicas;Zaragoza;Facultad de Ciencias;Facultad;Máster;30;13;32;43.33;30/10/2022
+2021;Máster: Gestión del Patrimonio Cultural;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;35;22;73;62.86;30/10/2022
+2021;Máster: Tec.Información Geográfica para Ordenación Territorio: Sig/Teled;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;25;19;71;76.00;30/10/2022
+2021;Máster: Gerontología Social;Zaragoza;Facultad de Ciencias de la Salud;Facultad;Máster;36;35;90;97.22;30/10/2022
+2021;Máster: Relaciones de Género;Zaragoza;Facultad de Ciencias Sociales y del Trabajo;Facultad;Máster;30;28;82;93.33;30/10/2022
+2021;Máster: Contabilidad y Finanzas;Zaragoza;Facultad de Economía y Empresa;Facultad;Máster;27;11;78;40.74;30/10/2022
+2021;Máster: Economía;Zaragoza;Facultad de Economía y Empresa;Facultad;Máster;30;13;66;43.33;30/10/2022
+2021;Máster: Iniciación a la investigación en Medicina;Zaragoza;Facultad de Medicina;Facultad;Máster;60;62;76;103.33;30/10/2022
+2021;Máster: Dirección y planificación del turismo;Huesca;Facultad de Empresa y Gestión Pública;Facultad;Máster;30;15;70;50.00;30/10/2022
+2021;Máster: Materiales nanoestructurados para aplicaciones nanotecnológicas;Zaragoza;Facultad de Ciencias;Facultad;Máster;25;11;31;44.00;30/10/2022
+2021;Máster: Sociología de las Políticas Públicas y Sociales;Zaragoza;Facultad de Economía y Empresa;Facultad;Máster;25;17;45;68.00;30/10/2022
+2021;Máster: Aprendizaje a lo largo de la vida: Iniciación a la investigación;Zaragoza;Facultad de Educación;Facultad;Máster;40;14;36;35.00;30/10/2022
+2021;Máster: Investigación y Estudios Avanzados en Historia;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;40;8;24;20.00;30/10/2022
+2021;Máster: Estudios Avanzados en Historia del Arte;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;35;11;29;31.43;30/10/2022
+2021;Máster: Energías Renovables y Eficiencia Energética;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;36;26;78;72.22;30/10/2022
+2021;Máster: Historia Contemporánea;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;40;31;54;77.50;30/10/2022
+2021;Máster: Ordenación Territorial y Medioambiental;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;25;16;43;64.00;30/10/2022
+2021;Máster: Ingeniería Electrónica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;20;7;30;35.00;30/10/2022
+2021;Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;Zaragoza;Facultad de Educación;Facultad;Máster;467;460;1494;98.50;30/10/2022
+2021;Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;Huesca;Facultad de Ciencias Humanas y de la Educación;Facultad;Máster;30;31;138;103.33;30/10/2022
+2021;Máster: Profesorado E.S.O., F.P. y Ens. Idiom, Art y Deport;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Máster;16;15;74;93.75;30/10/2022
+2021;Máster: Prevención de riesgos laborales;Zaragoza;Facultad de Derecho;Facultad;Máster;30;24;105;80.00;30/10/2022
+2021;Máster: Arquitectura;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;80;31;40;38.75;30/10/2022
+2021;Máster: Modelización e Investigación Matemática, Estadística y Computación;Zaragoza;Facultad de Ciencias;Facultad;Máster;17;15;58;88.24;30/10/2022
+2021;Máster: Abogacía;Zaragoza;Facultad de Derecho;Facultad;Máster;100;80;142;80.00;30/10/2022
+2021;Máster: Estudios Avanzados sobre el Lenguaje, la Comunicación y sus Patologías;Huesca;Facultad de Ciencias Humanas y de la Educación;Facultad;Máster;20;11;60;55.00;30/10/2022
+2021;Máster: Ingeniería Química;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;40;20;41;50.00;30/10/2022
+2021;Máster: Ingeniería Industrial;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;220;74;138;33.64;30/10/2022
+2021;Máster: Ingeniería de Telecomunicación;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;30;20;32;66.67;30/10/2022
+2021;Máster: Ingeniería Informática;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;60;5;20;8.33;30/10/2022
+2021;Máster: Ingeniería Mecánica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;24;21;43;87.50;30/10/2022
+2021;Máster: Química Industrial;Zaragoza;Facultad de Ciencias;Facultad;Máster;50;20;42;40.00;30/10/2022
+2021;Máster: Geología: Técnicas y Aplicaciones;Zaragoza;Facultad de Ciencias;Facultad;Máster;20;3;12;15.00;30/10/2022
+2021;Máster: Química Molecular y Catálisis Homogénea;Zaragoza;Facultad de Ciencias;Facultad;Máster;25;11;41;44.00;30/10/2022
+2021;Máster: Auditoría;Zaragoza;Facultad de Economía y Empresa;Facultad;Máster;32;29;100;90.62;30/10/2022
+2021;Máster: Ingeniería Agronómica;Huesca;Escuela Politécnica Superior;Facultad;Máster;40;16;24;40.00;30/10/2022
+2021;Máster: Evaluación y Entrenamiento Físico para la Salud;Huesca;Facultad de Ciencias de la Salud y del Deporte;Facultad;Máster;20;3;25;15.00;30/10/2022
+2021;Máster: Mundo Antiguo y Patrimonio Arqueológico;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;30;13;28;43.33;30/10/2022
+2021;Máster: Iniciación a la Investigación en Ciencias de la Enfermería;Zaragoza;Facultad de Ciencias de la Salud;Facultad;Máster;30;15;30;50.00;30/10/2022
+2021;Máster: Dirección, Estrategia y Marketing;Zaragoza;Facultad de Economía y Empresa;Facultad;Máster;20;19;102;95.00;30/10/2022
+2021;Máster: Psicología General Sanitaria;Teruel;Facultad de Ciencias Sociales y Humanas de Teruel;Facultad;Máster;30;30;396;100.00;30/10/2022
+2021;Máster: Ingeniería de Diseño de Producto;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;30;10;35;33.33;30/10/2022
+2021;Máster: Consultoría de Información y Comunicación Digital;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;25;22;47;88.00;30/10/2022
+2021;Máster: Gestión Administrativa;Zaragoza;Facultad de Derecho;Facultad;Máster;30;11;46;36.67;30/10/2022
+2021;Máster: Investigación en Filosofía;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;12;8;21;66.67;30/10/2022
+2021;Doctorado: PD Ciencias de la antigüedad [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;4;5;13.33;30/10/2022
+2021;Doctorado: PD Estudios ingleses [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;12;3;7;25.00;30/10/2022
+2021;Doctorado: PD Literaturas hispánicas [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;4;5;20.00;30/10/2022
+2021;Doctorado: PD Filosofía [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;8;7;8;87.50;30/10/2022
+2021;Doctorado: PD Historia contemporánea [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;15;1;6;6.67;30/10/2022
+2021;Máster: Dirección y Gestión de Adquisiciones de Sistemas para la Defensa;Zaragoza;Centro Universitario de la Defensa de Zaragoza;Centro adscrito;Máster;25;25;30;100.00;30/10/2022
+2021;Doctorado: PD Historia del arte [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;9;14;45.00;30/10/2022
+2021;Doctorado: PD Historia, sociedad y cultura: épocas medieval y moderna [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;8;5;9;62.50;30/10/2022
+2021;Doctorado: PD Lingüística hispánica [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;25;6;7;24.00;30/10/2022
+2021;Doctorado: PD Bioquímica y biología molecular [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;13;22;43.33;30/10/2022
+2021;Doctorado: PD Calidad, seguridad y tecnología de los alimentos [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;15;8;9;53.33;30/10/2022
+2021;Doctorado: PD Ciencia analítica en química [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;15;7;7;46.67;30/10/2022
+2021;Doctorado: PD Física [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;50;26;29;52.00;30/10/2022
+2021;Doctorado: PD Geología [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;11;6;10;54.55;30/10/2022
+2021;Doctorado: PD Matemáticas y estadística [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;5;8;12;160.00;30/10/2022
+2021;Doctorado: PD Producción animal [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;6;4;8;66.67;30/10/2022
+2021;Máster: Derecho de la Administración Pública;Zaragoza;Facultad de Derecho;Facultad;Máster;20;19;53;95.00;30/10/2022
+2021;Doctorado: PD Química física [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;10;3;4;30.00;30/10/2022
+2021;Doctorado: PD Química inorgánica [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;18;3;4;16.67;30/10/2022
+2021;Doctorado: PD Química orgánica [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;12;7;8;58.33;30/10/2022
+2021;Doctorado: PD Ciencias biomédicas y biotecnológicas [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;5;7;25.00;30/10/2022
+2021;Doctorado: PD Ciencias de la salud y del deporte [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;27;36;90.00;30/10/2022
+2021;Doctorado: PD Medicina [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;75;66;75;88.00;30/10/2022
+2021;Doctorado: PD Medicina y sanidad animal [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;15;6;7;40.00;30/10/2022
+2021;Doctorado: PD Contabilidad y finanzas [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;7;13;35.00;30/10/2022
+2021;Doctorado: PD Derecho [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;17;26;56.67;30/10/2022
+2021;Doctorado: PD Derechos humanos y libertades fundamentales [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;10;7;13;70.00;30/10/2022
+2021;Máster: Programa conjunto en Máster Universitario en Ingeniería Industrial-Máster Universitario en Ingeniería Mecánica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;6;0;7;0.00;30/10/2022
+2021;Doctorado: PD Economía [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;15;20;27;133.33;30/10/2022
+2021;Doctorado: PD Economía y gestión de las organizaciones [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;21;42;105.00;30/10/2022
+2021;Doctorado: PD Educación [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;25;26;46;104.00;30/10/2022
+2021;Doctorado: PD Ordenación del territorio y medio ambiente [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;25;8;17;32.00;30/10/2022
+2021;Doctorado: PD Relaciones de género y estudios feministas [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;5;8;16.67;30/10/2022
+2021;Doctorado: PD Sociología de las políticas públicas y sociales [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;6;9;30.00;30/10/2022
+2021;Doctorado: PD Ciencias agrarias y del medio natural [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;12;18;40.00;30/10/2022
+2021;Doctorado: PD Energías renovables y eficiencia energética [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;15;4;7;26.67;30/10/2022
+2021;Doctorado: PD Ingeniería biomédica [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;10;10;13;100.00;30/10/2022
+2021;Doctorado: PD Ingeniería de diseño y fabricación [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;6;7;30.00;30/10/2022
+2021;Máster: Programa conjunto en Máster Universitario en Ingeniería Industrial-Máster Universitario en Energías Renovables y Eficiencia Energética;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;9;9;29;100.00;30/10/2022
+2021;Doctorado: PD Ingeniería de sistemas e informática [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;30;25;29;83.33;30/10/2022
+2021;Doctorado: PD Ingeniería electrónica [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;10;9;11;90.00;30/10/2022
+2021;Doctorado: PD Ingeniería mecánica [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;25;10;10;40.00;30/10/2022
+2021;Doctorado: PD Ingeniería química y del medio ambiente [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;60;11;21;18.33;30/10/2022
+2021;Doctorado: PD Mecánica de fluidos [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;3;2;2;66.67;30/10/2022
+2021;Doctorado: PD Nuevos territorios en la arquitectura [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;10;8;9;80.00;30/10/2022
+2021;Doctorado: PD Tecnologías de la información y comunicaciones en redes moviles [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;10;1;6;10.00;30/10/2022
+2021;Doctorado: PD Información y Comunicación [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;6;8;13;133.33;30/10/2022
+2021;Doctorado: PD Patrimonio, Sociedades y Espacios de Frontera [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;8;5;5;62.50;30/10/2022
+2021;Doctorado: PD Logística y gestión de la cadena de suministro [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;8;0;1;0.00;30/10/2022
+2021;Máster: Programa conjunto en Máster Universitario en Ingeniería Industrial-Máster Universitario en Ingeniería Electrónica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;5;0;10;0.00;30/10/2022
+2021;Doctorado: PD Psicología [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;20;15;21;75.00;30/10/2022
+2021;Doctorado: PD Sistemas eficientes de producción y calidad agroalimentaria [RD 99/2011];Zaragoza;Escuela de Doctorado;Facultad;Doctorado;4;0;0;0.00;30/10/2022
+2021;Máster: Cond. genéticos, nutric. y amb. del crec. y desarrollo;Zaragoza;Facultad de Medicina;Facultad;Máster;25;27;55;108.00;30/10/2022
+2021;Máster: Robótica, Gráficos y Visión por Computador/Robotics, Graphics and Computer Vision;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;30;19;55;63.33;30/10/2022
+2021;Máster: Innovación y Emprendimiento en Tecnologías para la Salud y el Bienestar;Teruel;Escuela Universitaria Politécnica de Teruel;Escuela Universitaria;Máster;20;9;20;45.00;30/10/2022
+2021;Máster: Salud Global: Integración de la Salud Ambiental, Humana y Animal;Zaragoza;Facultad de Veterinaria;Facultad;Máster;30;12;41;40.00;30/10/2022
+2021;Máster: Enseñanza del Español como Lengua Extranjera;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;30;20;99;66.67;30/10/2022
+2021;Máster: Biofísica y Biotecnología Cuantitativa/Biophysics and Quantitative Biotechnology;Zaragoza;Facultad de Ciencias;Facultad;Máster;24;4;31;16.67;30/10/2022
+2021;Máster: Economía Circular;Zaragoza;Facultad de Ciencias;Facultad;Máster;40;14;49;35.00;30/10/2022
+2021;Máster: Física del Universo: Cosmología, Astrofísica, Partículas y Astroparticulas;Zaragoza;Facultad de Ciencias;Facultad;Máster;30;8;31;26.67;30/10/2022
+2021;Máster: Culturas e Identidades Hispánicas;Zaragoza;Facultad de Filosofía y Letras;Facultad;Máster;30;3;27;10.00;30/10/2022
+2021;Máster: Nutrición Animal;Zaragoza;Facultad de Veterinaria;Facultad;Máster;24;20;24;83.33;30/10/2022
+2021;Máster: Calidad, Seguridad y Tecnología de los Alimentos;Zaragoza;Facultad de Veterinaria;Facultad;Máster;30;23;103;76.67;30/10/2022
+2021;Máster: Gestión Estratégica de Recursos Humanos;Zaragoza;Facultad de Ciencias Sociales y del Trabajo;Facultad;Máster;30;20;89;66.67;30/10/2022
+2021;Máster: Ingeniería Biomédica;Zaragoza;Escuela de Ingeniería y Arquitectura;Facultad;Máster;40;23;78;57.50;30/10/2022
