@@ -1,3 +1,6 @@
+# Script Práctica 2 - Bases de Datos 2
+# Fernando José Martínez Santana
+
 from sqlalchemy import create_engine, Table, Column, Integer, String, DateTime, Sequence, ForeignKey, inspect
 from sqlalchemy.orm import sessionmaker, declarative_base, relationship
 from datetime import datetime
