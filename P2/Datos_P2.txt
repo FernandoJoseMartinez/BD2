@@ -1,0 +1,18 @@
+Repositorio GitHub de la asignatura:
+    https://github.com/FernandoJoseMartinez/BD2
+    
+
+Para poder ejecutar script_P2_bd2.py se debe instalar previamente:
+
+    - Python:
+        sudo apt update
+        sudo apt install python3
+
+    - SQLAlchemy:
+        pip install sqlalchemy
+
+    - Librería del conector de MySQL:
+        sudo apt-get install libmysqlclient-dev
+
+    - PyMySQL(Conector):
+        pip install pymysql
